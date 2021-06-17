@@ -1,5 +1,5 @@
 {
-    "name": "samad/yii2-storage-extension",
+    "name": "samadhassan/yii2-storage-extension",
     "type": "library",
     "require": {
         "neoacevedo/yii2-storage": "^20.12"
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "samadhassan\\yii2\\": "samadhassan/yii2"
+            "samad\\yii2\\": "samad/yii2"
         }
     }
 }
