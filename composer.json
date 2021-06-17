@@ -1,6 +1,9 @@
 {
     "name": "samadhassan/yii2-storage-extension",
     "type": "library",
+    "support": {
+        "source": "https://github.com/iamsamadhassan2/yii2-storage-extension"
+    },
     "require": {
         "neoacevedo/yii2-storage": "^20.12"
     },
@@ -11,6 +14,7 @@
             "email": "iamsamadhassan2@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "samad\\yii2\\": "samad/yii2"
