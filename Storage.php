@@ -17,7 +17,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-namespace samad\yii2;
+namespace samadhassan\yii2;
 
 use neoacevedo\yii2\storage\models\FileManager;
 use \yii\web\HttpException;
