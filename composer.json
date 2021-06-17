@@ -1,0 +1,19 @@
+{
+    "name": "samad/yii2-storage-extension",
+    "type": "library",
+    "require": {
+        "neoacevedo/yii2-storage": "^20.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Samad Hassan",
+            "email": "iamsamadhassan2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "samad\\yii2\\": "samad/yii2"
+        }
+    }
+}
