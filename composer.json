@@ -14,7 +14,7 @@
             "email": "iamsamadhassan2@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "samad\\yii2\\": "samad/yii2"
